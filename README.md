@@ -9,8 +9,8 @@ Post Management: Enable users to create, view, update, and delete blog posts.
 Comment System: Allow users to comment on posts and interact with other users.
 
 ## Technologies Used
-Spring Boot
-Spring Data JPA
-Spring Security
-MySQL (or your preferred database)
-Maven
+- Spring Boot
+- Spring Data JPA
+- Spring Security
+- MySQL (or your preferred database)
+- Maven
