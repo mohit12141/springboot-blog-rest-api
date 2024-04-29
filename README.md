@@ -4,9 +4,8 @@ Welcome to the Spring Boot Blog REST API repository! This project aims to provid
 
 ## Features
 
-
-Post Management: Enable users to create, view, update, and delete blog posts.
-Comment System: Allow users to comment on posts and interact with other users.
+- Post Management: Enable users to create, view, update, and delete blog posts.
+- Comment System: Allow users to comment on posts.
 
 ## Technologies Used
 - Spring Boot
