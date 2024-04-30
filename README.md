@@ -11,5 +11,5 @@ Welcome to the Spring Boot Blog REST API repository! This project aims to provid
 - Spring Boot
 - Spring Data JPA
 - Spring Security
-- MySQL (or your preferred database)
+- MySQL 
 - Maven
